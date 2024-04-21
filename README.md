@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-✔️ I'm currently getting a certificate from Oracle One ⭐️<br>✔️ I'm studying computer science in the University of Costa Rica 🎓<br>✔️ I'm currently learning web development 💻<br>✔️ Focused on becoming a back-end developer 💪🏽<br><br>
+✔️ I'm studying computer science in the University of Costa Rica 🎓<br>✔️ I'm currently learning Web development 💻<br>✔️ Focused on becoming a Full Stack developer 💪🏽<br><br>
 
 
 ## 🌐 Socials:
